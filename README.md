@@ -4,7 +4,7 @@ A few procedural terrain methods utilizing cellular automata
 For anyone interested in the concepts used here and an in-depth description of each method, see the "research" paper I wrote tited: "Creating 3D Procedural Content with Cellular Automata" (pdf in repo)
 
 
-## Contents
+# Contents
 Brief description of the 3 unity projects in this repo
 ### MeshGeneration
   3D Cellular Automata paired with the Marching Cubes algorithm for mesh creation
@@ -13,7 +13,7 @@ Brief description of the 3 unity projects in this repo
 ### Cellular Automata 2D Heightmap
   2D Cellular Automata that creates a heightmap
 
-## Screenshots
+# Screenshots
 ### MeshGeneration
 ![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/meshExample1.png "Marching Cubes")
 ### Cellular Automata 3D
