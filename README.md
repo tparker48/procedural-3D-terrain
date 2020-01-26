@@ -1,9 +1,9 @@
 # Procedural Terrin Generation using Cellular Automata
--A few procedural terrain methods utilizing cellular automata
+- A few procedural terrain methods utilizing cellular automata
 
--For anyone interested in the concepts used here and an in-depth description of each method, see the "research" paper I wrote tited: "Creating 3D Procedural Content with Cellular Automata" (pdf in repo)
+- For anyone interested in the concepts used here and an in-depth description of each method, see the "research" paper I wrote tited: "Creating 3D Procedural Content with Cellular Automata" (pdf in repo)
 
--Also, fair warning, the code may be ugly. The idea was to throw things togethere and see what results I could get, nothing more.
+- Also, fair warning, the code may be ugly. The idea was to throw things togethere and see what results I could get, nothing more.
 
 # Contents
 Brief description of the 3 unity projects in this repo
