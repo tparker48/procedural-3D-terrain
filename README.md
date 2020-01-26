@@ -20,3 +20,7 @@ Brief description of the 3 unity projects in this repo
 ![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/ca3dExample.png "Voxels")
 ### Cellular Automata 2D Heightmap
 ![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/hMapExample.png "Height Map")
+
+
+# Project Recap
+Although it was very exciting to play around with so many interesting topics, there's a reason nobody uses cellular automata for 3D content generation. Stick to perlin noise!
