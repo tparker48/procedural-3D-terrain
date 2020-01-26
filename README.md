@@ -13,3 +13,10 @@ Brief description of the 3 unity projects in this repo
 ### Cellular Automata 2D Heightmap
   2D Cellular Automata that creates a heightmap
 
+## Screenshots
+### MeshGeneration
+![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/meshExample1.png "Marching Cubes")
+### Cellular Automata 3D
+![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/ca3dExample.png "Voxels")
+### Cellular Automata 2D Heightmap
+![alt text](https://github.com/tparker48/procedural-3D-terrain/blob/master/screenshots/hMapExample.png "Height Map")
