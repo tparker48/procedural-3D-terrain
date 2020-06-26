@@ -1,4 +1,4 @@
-# Procedural Terrin Generation using Cellular Automata
+# Procedural Terrain Generation using Cellular Automata
 - A few procedural terrain methods utilizing cellular automata
 
 - For anyone interested in the concepts used here and an in-depth description of each method, see the "research" paper I wrote tited: "Creating 3D Procedural Content with Cellular Automata" (pdf in repo)
