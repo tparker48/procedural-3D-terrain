@@ -3,7 +3,7 @@
 
 - For anyone interested in the concepts used here and an in-depth description of each method, see the "research" paper I wrote tited: "Creating 3D Procedural Content with Cellular Automata" (pdf in repo)
 
-- Also, fair warning, this code was not optimized, nor is it intended for use in a video game. Simply a demonstraition of some of the concepts discussed in the papaer.
+- Fair warning: this code was not optimized, nor is it intended for use in a video game. Simply a demonstraition of some of the concepts discussed in the papaer.
 
 # Contents
 Brief description of the 3 unity projects in this repo
